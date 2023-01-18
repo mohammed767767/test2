@@ -97,7 +97,7 @@
        <artifactId>maven-war-plugin</artifactId>
        <version>3.3.2</version>
        <configuration>
-          <webXml>\WEB-INF\web.xml</webXml>
+          <webXml>/var/lib/jenkins/workspace/project_1/WEB-INF/web.xml</webXml>
        </configuration>
       </plugin>
       <plugin>
